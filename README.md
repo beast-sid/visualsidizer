@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Deployment of this project [Deployment](https://beast-sid.github.io/visualsidizer/).\
 
 ## Available Scripts
 
