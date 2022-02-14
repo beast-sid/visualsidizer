@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visualsidizer/static/css/main.ec2b628b.css",
+    "main.js": "/visualsidizer/static/js/main.cfc037d3.js",
+    "static/js/787.df7a9030.chunk.js": "/visualsidizer/static/js/787.df7a9030.chunk.js",
+    "index.html": "/visualsidizer/index.html",
+    "main.ec2b628b.css.map": "/visualsidizer/static/css/main.ec2b628b.css.map",
+    "main.cfc037d3.js.map": "/visualsidizer/static/js/main.cfc037d3.js.map",
+    "787.df7a9030.chunk.js.map": "/visualsidizer/static/js/787.df7a9030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2b628b.css",
+    "static/js/main.cfc037d3.js"
+  ]
+}
